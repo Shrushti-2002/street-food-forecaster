@@ -1,4 +1,4 @@
-🍽️ Mumbai Street Food Price Forecaster
+🍽️ ##Mumbai Street Food Price Forecaster
 
 - Predicts Mumbai street food prices using ingredient inflation (onions, oil, chilies) and seasonal effects. Linear regression model with comprehensive evaluation and 11 advanced visualizations.
 
