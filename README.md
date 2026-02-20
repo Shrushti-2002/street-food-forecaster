@@ -4,7 +4,11 @@
 
 📊 Dashboard Preview
 
-<img src="street_food_dashboard.png" width="100%" alt="Complete Analytics Dashboard">
+- Comprehensive 11-plot analytics dashboard tracking Mumbai street food price forecasting model performance. Shows price distributions, seasonal trends (monsoon +₹3.2 premium), ingredient correlations (oil-price: 0.89), residuals analysis, feature importance ranking, and prediction accuracy (R²=0.95, MAE=1.58₹).
+
+- Validates linear regression assumptions and reveals key business insights like ₹0.12 price impact per ₹1 oil rise.
+
+- Production-ready visualization suite for model diagnostics and stakeholder presentations.
 
 🎯 What It Does
 
